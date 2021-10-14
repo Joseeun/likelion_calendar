@@ -114,3 +114,7 @@ body {
   border-radius: 50%;
   content: '';
 }
+
+.other {
+  opacity: .3;
+}
